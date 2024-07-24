@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/CmdFile/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": 267,
+          "line": 7
+        },
+        "start": {
+          "column": 17,
+          "index": 267,
+          "line": 7
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/CmdFile/app/src/main/res/layout/activity_main.xml"
+}
